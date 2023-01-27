@@ -42,6 +42,5 @@ relação dos aprovados no seu colégio.
 4. Ajuda:
 - Vou disponibilizar aqui abaixo algumas funções do excel que
 irá ajudar a preparar o arquivo para exportação:
-● https://tecnoblog.net/responde/como-remover-espaco-e
-m-branco-no-excel/
+● https://tecnoblog.net/responde/como-remover-espaco-em-branco-no-excel/
 ● https://ninjadoexcel.com.br/funcao-substituir-no-excel/
