@@ -7,8 +7,7 @@ Descrição:
 
 ● Este programa é um aplicativo baseado em Python que permite aos
 usuários cadastrar alunos, criar uma lista de aprovados na
-universidade e realizar a pesquisa dos alunos aprovados. Ele usa a
-biblioteca PySimpleGUI para criar uma interface gráfica do usuário e
+universidade.. Ele usa a biblioteca PySimpleGUI para criar uma interface gráfica do usuário e
 permite que os usuários interajam com o programa por meio de um
 menu de opções. O programa também inclui um recurso que remove
 acentos e caracteres especiais dos nomes dos alunos. Foi criado por
