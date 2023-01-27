@@ -1,8 +1,10 @@
 # ApVest
 Aplicação criada em Python para verificar aprovados em vestibular.
-Manual de uso
-ApVest
+
+#Manual de uso
+
 Descrição:
+
 ● Este programa é um aplicativo baseado em Python que permite aos
 usuários cadastrar alunos, criar uma lista de aprovados na
 universidade e realizar a pesquisa dos alunos aprovados. Ele usa a
