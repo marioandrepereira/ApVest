@@ -17,8 +17,10 @@ um recurso que permite ao usuário consultar sobre o programa.
 
 
 Utilização:
+
 ● Você deverá extrailo em C: e ao executar o programa você se depara com um menu de opções, que
 aborda cada etapa do processo.
+
 1. Cadastrar alunos:
 - Para realizar o cadastro dos alunos você deverá jogá-los em uma
 planilha no excel deixando que fique linha por linha, da forma que se encontra o arquivo exemplo.xlsx
