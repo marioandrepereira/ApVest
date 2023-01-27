@@ -19,10 +19,9 @@ Utilização:
 aborda cada etapa do processo.
 1. Cadastrar alunos:
 - Para realizar o cadastro dos alunos você deverá jogá-los em uma
-planilha no excel deixando que fique linha por linha, dessa forma
-abaixo.
+planilha no excel deixando que fique linha por linha, da forma que se encontra o arquivo exemplo.xlsx
 - Ao inserir todas as informações, você deverá converter o arquivo para
-.csv, desta forma:
+.csv, da forma que se encontra o arquivo exemplo.cvs:
 - Salve, e abra o arquivo com o bloco de notas.
 - Copie o que está dentro do txt e cole dentro do programa, no menu
 cadastrar_alunos.
