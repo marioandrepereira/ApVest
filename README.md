@@ -18,7 +18,7 @@ um recurso que permite ao usuário consultar sobre o programa.
 
 Utilização:
 
-● Você deverá extrailo em C: e ao executar o programa você se depara com um menu de opções, que
+● Você deverá extrailo em C: e ao executar o programa você irá se deparar com um menu de opções, que
 aborda cada etapa do processo.
 
 1. Cadastrar alunos:
